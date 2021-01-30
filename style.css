@@ -1,0 +1,13 @@
+header {
+  background-image: url(thumb_148242_cover_header.jpeg);
+}
+.navbar{
+  height: 15vh;
+  opacity: 0.25;
+}
+.hauteur{
+  height: 65vh;
+}
+p {
+  text-align: justify;
+}
