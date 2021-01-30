@@ -1,13 +1,17 @@
 header {
-  background-image: url(thumb_148242_cover_header.jpeg);
+  background-image: url(643068.png);
+  background-size: cover;
 }
 .navbar{
   height: 15vh;
-  opacity: 0.25;
+  opacity: 0.3;
 }
-.hauteur{
+.d-flex{
   height: 65vh;
 }
 p {
   text-align: justify;
+}
+.navbar-brand{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
