@@ -1,0 +1,43 @@
+.poster{
+  background-image: url(../ressources/images/643068.png);
+  background-size: cover;
+}
+.navigation{
+  opacity: 0.5;
+}
+p{
+  text-align: justify;
+}
+.navbar-brand{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.flyer{
+ height: 40%;
+ width: 40%;
+}
+.line{
+  height: 2px;
+  width: 15vw;
+  background-color: white;
+}
+.icons{
+  width: 10vw;
+}
+.container-fluid{
+  background-color: #eff3f5;
+}
+.border{
+  border-radius: 10px;
+}
+.imageIndex{
+  border-radius: 10px 10px  00;
+}
+.home-text{
+  height: 70vh;
+}
+.position{
+  position: fixed;
+  right: 5px;
+  bottom: 5px;
+  background-color: white;
+}
